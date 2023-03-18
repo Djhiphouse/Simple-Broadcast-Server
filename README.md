@@ -7,9 +7,9 @@ Task.Run(TCPServer.HandleConnection);
 ```cs
 Adding Broadcast:
 while (true)
-			{
-				Thread.Sleep(2000);
-				Console.WriteLine("Broadcasted!");
-				Task.Run(() => { TCPServer.Broadcast("Broadcast Message"); });
-			} 
+{
+  Thread.Sleep(2000);
+  Console.WriteLine("Broadcasted!");
+  Task.Run(() => { TCPServer.Broadcast("Broadcast Message"); });
+} 
 ```
