@@ -1,0 +1,14 @@
+C:\Users\fride\source\repos\GitHub Projekts\Broadcast-Server\Broadcast-Server\bin\Debug\netcoreapp3.1\Broadcast-Server.exe
+C:\Users\fride\source\repos\GitHub Projekts\Broadcast-Server\Broadcast-Server\bin\Debug\netcoreapp3.1\Broadcast-Server.deps.json
+C:\Users\fride\source\repos\GitHub Projekts\Broadcast-Server\Broadcast-Server\bin\Debug\netcoreapp3.1\Broadcast-Server.runtimeconfig.json
+C:\Users\fride\source\repos\GitHub Projekts\Broadcast-Server\Broadcast-Server\bin\Debug\netcoreapp3.1\Broadcast-Server.runtimeconfig.dev.json
+C:\Users\fride\source\repos\GitHub Projekts\Broadcast-Server\Broadcast-Server\bin\Debug\netcoreapp3.1\Broadcast-Server.dll
+C:\Users\fride\source\repos\GitHub Projekts\Broadcast-Server\Broadcast-Server\bin\Debug\netcoreapp3.1\Broadcast-Server.pdb
+C:\Users\fride\source\repos\GitHub Projekts\Broadcast-Server\Broadcast-Server\obj\Debug\netcoreapp3.1\Broadcast-Server.csproj.AssemblyReference.cache
+C:\Users\fride\source\repos\GitHub Projekts\Broadcast-Server\Broadcast-Server\obj\Debug\netcoreapp3.1\Broadcast-Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fride\source\repos\GitHub Projekts\Broadcast-Server\Broadcast-Server\obj\Debug\netcoreapp3.1\Broadcast-Server.AssemblyInfoInputs.cache
+C:\Users\fride\source\repos\GitHub Projekts\Broadcast-Server\Broadcast-Server\obj\Debug\netcoreapp3.1\Broadcast-Server.AssemblyInfo.cs
+C:\Users\fride\source\repos\GitHub Projekts\Broadcast-Server\Broadcast-Server\obj\Debug\netcoreapp3.1\Broadcast-Server.csproj.CoreCompileInputs.cache
+C:\Users\fride\source\repos\GitHub Projekts\Broadcast-Server\Broadcast-Server\obj\Debug\netcoreapp3.1\Broadcast-Server.dll
+C:\Users\fride\source\repos\GitHub Projekts\Broadcast-Server\Broadcast-Server\obj\Debug\netcoreapp3.1\Broadcast-Server.pdb
+C:\Users\fride\source\repos\GitHub Projekts\Broadcast-Server\Broadcast-Server\obj\Debug\netcoreapp3.1\Broadcast-Server.genruntimeconfig.cache
